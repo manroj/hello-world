@@ -1,2 +1,5 @@
 # hello-world
-Just testing
+Testing...
+
+Just for the fun of learning!
+
